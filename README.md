@@ -13,8 +13,3 @@ Portfolio personal con proyectos destacados:
 - **SignaTat**: Software de consentimiento digital para estudios de tatuajes  
 - **UCalendarMobile**: App móvil para calendario universitario
 - **Chile Cargo Express**: SaaS logístico (Proyecto de Titulo)
-
-## Enfoque
-- **Product Hacking**: Romper problemas complejos en soluciones simples
-- **Tecnología**: Full-stack, automatización, optimización de hardware
-- **Creatividad**: Encontrar caminos únicos donde otros ven callejones
