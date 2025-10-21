@@ -8,4 +8,4 @@ I firmly believe in disruptiveness as the only way to real progress. Change the 
 My technical versatility is like a dance: I can jump between layers of hardware, software, infrastructure and UX without losing rhythm. I've learned that technology is just the medium; understanding human needs is the real challenge.
 
 ## Portfolio
-### [pcurz.github.io](https://pcurz.github.io)
+### [pcamposu.github.io](https://pcamposu.github.io)
